@@ -33,6 +33,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
+    "aws-sdk": "^2.457.0",
     "combined-stream": "^1.0.7",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
