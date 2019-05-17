@@ -1,5 +1,5 @@
 {
-  "name": "currency-cloud",
+  "name": "@wallex/currency-cloud-js",
   "description": "Currencycloud API v2 JavaScript client",
   "version": "2.0.1",
   "author": "Currencycloud",
