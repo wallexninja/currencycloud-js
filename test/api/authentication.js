@@ -6,7 +6,7 @@ var expect = require('chai').expect;
 var mock = require('../mocks').authentication;
 var recorder = require('../prepost').recorder('authentication');
     
-describe.skip('authentication', function() {
+describe('authentication', function() {
   before(recorder.read);
   
   after(recorder.write);
